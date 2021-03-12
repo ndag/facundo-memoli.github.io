@@ -186,11 +186,20 @@ ul#nav a.selected {
 	float:left;
 }
 
-#maincontent {
+#maincontentsm {
 	font-size:100%;
 	padding:0px 5px 5px 0px;
 	margin:0px 0px 0px 0px;
 	width:540px;
+	float:left;
+}
+
+
+#maincontent {
+	font-size:100%;
+	padding:0px 5px 5px 0px;
+	margin:0px 0px 0px 0px;
+	width:700px;
 	float:left;
 }
 
