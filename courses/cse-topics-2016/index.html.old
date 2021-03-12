@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <link rel="stylesheet" type="text/css" href="group/default.css" />
+    <title>Applied Algebraic Topology Reading Group -- Autumn 2015</title>
+
+	  <!--     <script type="text/javascript" src="mathtran_img.js"></script>  -->
+  </head>
+
+  <body class="full">
+    <script type="text/javascript" src="group/center.js"></script>
+    <h1>Applied Algebraic Topology Reading Group</h1>
+
+
+
+    <h3>Organization</h3>
+	<p><b>Times:</b> Tuesdays 4pm to 6pm </p>
+	<p><b>Location:</b> Dreese Labs 264.</p>
+	<p><b>Contact:</b> Roy Joshua, Facundo M&eacutemoli, and Crichton Ogle.</p>
+	<p><b>Description:</b> A reading group for undergrads and graduate students about Applications of Algebraic Topology to Data Analysis.</p>
+
+  
+
+        <h3 class='Otro'>Student Participants</h3>
+
+<ul>
+  <li> Nadia Avery.
+  <li> Bowen Lai.
+  <li> Zane Smith.
+  <li> Ian Frankenburgh.
+  <li> Baocheng Wei.
+  <li> Samir Chowdhury.
+  <li> Woojin Kim.
+  <li> Yimin Hu.
+  <li> Muzi Li.
+  <li> Lu yang Wang.
+  <li> Corey Staten.
+</ul>
+
+
+        <h3 class='Otro'>Schedule -- Autum 2015</h3>
+
+<ul>
+<li> <b>September 8th</b>. <i>all</i>: First meeting -- assingment of topics.
+  <li> <b>September 15th</b>. <i>all</i>: TGDA seminar talk by Sanjeevi Krishnan.
+<li> <b>September 22nd</b>. <i>Ian</i>: Gentle Intro to Categories and Functors. <i>Woojin</i>: A primer on Persistent Homology.
+  <li> <b>September 29th</b>. <i>Woojin</i>: Continue with introduction to PH. <i>Corey and Zane</i>: The Gromov-Hausdorff distance, with some computational examples.
+  <li> <b>October 6th</b>. <i>all</i>: TGDA seminar talk by Dena Asta.
+    <li> <b>October 13th</b>. <i>all</i>: TGDA seminar talk by Joe Anderson.
+    <li> <b>October 20th</b>. <i>Baocheng, Luyang, and Nadia</a>: Mapper, Python Mapper software, and applications of Mapper..
+  <li> <b>October 27th</b>. <i>Tentative: Yimin</i>: Vietoris-Rips Persistent Homology for finite metric spaces, and application to Shape Matching.
+  <li> <b>November 3rd</b>. <i>..</i>:.
+    <li> <b>November 10th</b>. <i>all</i>: TGDA seminar talk by Krystal Taylor.
+   <li> <b>November 17th</b>. <i>all</i>: TGDA seminar talk by Jos&eacute Perea.
+   <li> <b>November 24th</b>. <i>..</i>:.
+      <li> <b>December 1st</b>. <i>..</i>:.
+        <li> <b>December 8th</b>. <i>..</i>:.
+  
+</ul>
+
+
+        <h3 class='Otro'>Materials/Papers/Links</h3>
+<ul>
+<li> Mapper paper: <a href="https://research.math.osu.edu/tgda/mapperPBG.pdf">https://research.math.osu.edu/tgda/mapperPBG.pdf</a>
+<li> Categorification of persistence: <a href="http://arxiv.org/abs/1205.3669">http://arxiv.org/abs/1205.3669</a>
+<li> Classifying custering methods: <a href="http://arxiv.org/abs/1011.5270">http://arxiv.org/abs/1011.5270</a>
+<li> ZZ Persistence: <a href="http://arxiv.org/abs/0812.0197">http://arxiv.org/abs/0812.0197</a>
+<li> VR and GH: <a href="http://geometry.stanford.edu/papers/ccgmo-ghsssp-09/ccgmo-ghsssp-09.pdf">http://geometry.stanford.edu/papers/ccgmo-ghsssp-09/ccgmo-ghsssp-09.pdf</a>
+<li>  <a href="http://acirm.cedram.org/cedram-bin/article/ACIRM_2013__3_1_89_0.pdf">Overview of quantitative aspects of GH distance</a> 
+<li> Python Mapper: <a href="http://danifold.net/mapper/">http://danifold.net/mapper/</a>
+<li> javaplex: <a href="http://appliedtopology.github.io/javaplex/">http://appliedtopology.github.io/javaplex/</a>
+<li> Video: <a href="https://www.youtube.com/watch?v=h0bnG1Wavag">Intro to Persistent Homology</a>
+  <li><a href="http://www.ayasdi.com/blog/">Ayasdi Blog</a>
+</ul>
+	        
+	
+	</body>
+	<p></p>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44260296-2', 'osu.edu');
+  ga('send', 'pageview');
+
+</script>
+</html>
