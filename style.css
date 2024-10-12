@@ -97,7 +97,8 @@ a.BibTexLink:hover   {color: rgb(250,0,0); background-color:transparent}
 
 #title {
 	color: #EEEEEE;
-	background-color:#CC6633;
+/* 	background-color:#CC6633;
+ */	background-color:#CC3300; 
 	font-size:200%;
 	font-weight:bold;
 	padding:10px 0px 0px 10px;
