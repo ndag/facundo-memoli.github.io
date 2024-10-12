@@ -89,7 +89,7 @@ a.BibTexLink:hover   {color: rgb(250,0,0); background-color:transparent}
 	width:760px;
 	clear:both;
 	color: #FFFFFF;
-	background-color:#CC6633;
+	background-color:#CC3300;
 	padding:0px 0px 0px 0px;
 	margin:0px 0px 0px 0px;
 }
@@ -111,7 +111,7 @@ a.BibTexLink:hover   {color: rgb(250,0,0); background-color:transparent}
 #slogan {
 	line-height:38px;
 	color: #EEEEEE;
-	background-color:#CC6633;
+	background-color:#CC3300;
 	font-size:70%;
 	font-weight:normal;
 	font-style:normal;
@@ -125,7 +125,7 @@ a.BibTexLink:hover   {color: rgb(250,0,0); background-color:transparent}
 
 ul#nav {
 	color: #EEEEEE;
-	background-color:#CC6633;
+	background-color:#CC3300;
 	float:right;
 	margin: 0px 0px 0px 0px;
 	padding: 0px 0px 6px 10px;
@@ -147,7 +147,7 @@ ul#nav li a {
 	padding: 3px 8px 3px 8px;
 	font-size: 70%;
 	color: #EEEEEE;
-	background-color:#CC6633;
+	background-color:#CC3300;
 	font-weight: normal;
 	text-decoration: none;
 }
@@ -237,7 +237,7 @@ ul#nav a.selected {
 .sectionnews {
 	margin:0px 1px 10px 10px;
 	padding:0px 0px 0px 0px;
-	border: #CC6633 solid thin;
+	border: #CC3300 solid thin;
 }
 
 .sectionnotes {
@@ -269,7 +269,7 @@ ul#nav a.selected {
 	margin:0px 0px 0px 0px;
 	padding:2px 0px 2px 5px;
 	color: #EEEEEE;
-	background-color:#CC6633;
+	background-color:#CC3300;
 }
 
 .sectionheadnotes {
@@ -302,7 +302,7 @@ ul#nav a.selected {
 	height:40px;
 	color:#333333;
 	background-color:#EEEEEE;
-	border-top:3px solid #CC6633;
+	border-top:3px solid #CC3300;
 	font-size:75%;
 	line-height:1.5em;
 	width: 760px;
